@@ -1,9 +1,9 @@
 {
 	"videojuegos":[
 		{
-			"titulo":"FIFA 2019",
+			"titulo":"UNREAL",
 			"plataforma":"PS4",
-			"precio":"60",
+			"precio":"81",
 			"rating":"5"
 		},
 		{
@@ -48,9 +48,9 @@
 			"rating":"4"
 		},
 		{
-			"titulo":"PRO EVOLUTION SOCCER 2019",
+			"titulo":"NBA",
 			"plataforma":"PC",
-			"precio":"41",
+			"precio":"10",
 			"rating":"1"
 		},{
 			"titulo":"FIFA 2019",
@@ -59,9 +59,9 @@
 			"rating":"5"
 		},
 		{
-			"titulo":"COD",
+			"titulo":"BATTLEIELD 4",
 			"plataforma":"XBOX ONE",
-			"precio":"45.90",
+			"precio":"19",
 			"rating":"4"
 		},
 		{
