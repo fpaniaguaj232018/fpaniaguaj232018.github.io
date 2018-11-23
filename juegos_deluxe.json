@@ -1,0 +1,66 @@
+{
+	"videojuegos":[
+		{
+			"titulo":"FIFA 2010",
+			"plataforma":"PS4",
+			"precio":"60",
+			"rating":[
+				{
+					"Nombre":"Javier Prieto",
+					"Valor":"5"
+				},
+				{
+					"Nombre":"Fernando Paniagua",
+					"Valor":"3"
+				}
+			]				
+		},
+		{
+			"titulo":"FIFA 2018",
+			"plataforma":"PS4",
+			"precio":"10.5",
+			"rating":[
+				{
+					"Nombre":"Javier Prieto",
+					"Valor":"1"
+				},
+				{
+					"Nombre":"Fernando Paniagua",
+					"Valor":"2"
+				}
+			]				
+		},
+		{
+			"titulo":"PES 2019",
+			"plataforma":"PS4",
+			"precio":"30.8",
+			"rating":[
+				{
+					"Nombre":"Javier Prieto",
+					"Valor":"4"
+				},
+				{
+					"Nombre":"Fernando Paniagua",
+					"Valor":"2"
+				}
+			]				
+		},
+		{
+			"titulo":"FIFA 97",
+			"plataforma":"PS4",
+			"precio":"60.8",
+			"rating":[
+				{
+					"Nombre":"Javier Prieto",
+					"Valor":"5"
+				},
+				{
+					"Nombre":"Fernando Paniagua",
+					"Valor":"5"
+				}
+			]				
+		}
+	]
+}
+
+	
