@@ -9,33 +9,26 @@
 			"puntos":"4"
 		},
 		{
-			"portada":"https://d8mkdcmng3.imgix.net/f18c/pc-and-video-games-games-ps4-god-of-war.png?auto=format&bg=0FFF&fit=fill&h=600&q=100&w=600&s=662405d265d55e4a5f7d6446c5a9a40e",
-			"titulo":"COD",
-			"plataforma":"XBOX ONE",
-			"precio":"45.90",
-			"puntos":"4"
+			"portada":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQGm2RlpHilrdC6MGhz2PajMaZR92K1fUFY0NZNu9XPHbH6LUQ",
+			"titulo":"The Big Book",
+			"plataforma":"PC",
+			"precio":"5",
+			"puntos":"10"
 		},
 		{
-			"portada":"https://d8mkdcmng3.imgix.net/f18c/pc-and-video-games-games-ps4-god-of-war.png?auto=format&bg=0FFF&fit=fill&h=600&q=100&w=600&s=662405d265d55e4a5f7d6446c5a9a40e",
-			"titulo":"COD",
-			"plataforma":"XBOX ONE",
-			"precio":"45.90",
-			"puntos":"4"
+			"portada":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRik8Dk4_m_t4pbgknlRiVaMUeR3JrV_Of082M-Y8lWdc_ywxgtVQ",
+			"titulo":"At the mountains of madness",
+			"plataforma":"NES",
+			"precio":"15",
+			"puntos":"300"
 		},
 		{
-			"portada":"https://d8mkdcmng3.imgix.net/f18c/pc-and-video-games-games-ps4-god-of-war.png?auto=format&bg=0FFF&fit=fill&h=600&q=100&w=600&s=662405d265d55e4a5f7d6446c5a9a40e",
-			"titulo":"COD",
-			"plataforma":"XBOX ONE",
-			"precio":"45.90",
-			"puntos":"4"
-		},
-		{
-			"portada":"https://d8mkdcmng3.imgix.net/f18c/pc-and-video-games-games-ps4-god-of-war.png?auto=format&bg=0FFF&fit=fill&h=600&q=100&w=600&s=662405d265d55e4a5f7d6446c5a9a40e",
-			"titulo":"COD",
-			"plataforma":"XBOX ONE",
-			"precio":"45.90",
-			"puntos":"4"
-		}								
+			"portada":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4MYNB3QQ4uWmO5hx4-p77w0yX3GTjPQ42TVTkLALENSAxV2V",
+			"titulo":"The legend of Zelda",
+			"plataforma":"Nintendo Switch",
+			"precio":"101",
+			"puntos":"1"
+		}
 	]
 }
 
